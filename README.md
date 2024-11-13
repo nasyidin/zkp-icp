@@ -9,3 +9,7 @@ This repository implements a Zero-Knowledge Proof for confidential transactions 
 
 ```bash
 sh setup.sh
+
+```bash
+
+sh test.sh
